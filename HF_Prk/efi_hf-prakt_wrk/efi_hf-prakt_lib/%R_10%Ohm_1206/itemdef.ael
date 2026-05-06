@@ -1,0 +1,6 @@
+create_item("R_10Ohm_1206","R_10Ohm_1206","R",16,-1,NULL,"Component Parameters",NULL,"%43?global %;%d:%t %# %44?0%:%31?%C%:_net%c%;%;%e %b%r%8?%29?%:%30?%p %:%k%?[%1i]%;=%p %;%;%;%e%e","R_10Ohm_1206","%t%b%r%38?%:\n%39?all_parm%A%:%30?%s%:%k%?[%1i]%;=%s%;%;%;%e%e%;","SYM_R",0,"SMD1206-EB",0,
+create_parm("OFFSET","OFFSET",66112,"StdFormSet",5,prm("StdForm","0")),
+create_parm("R","R",68608,"StdFormSet",1,prm("StdForm","10")),
+create_parm("CP","Parallel Capacitance",68608,"StdFormSet",4,prm("StdForm","80 fF")),
+create_parm("LS","Series Inductance",68608,"StdFormSet",3,prm("StdForm","1.5 nH")),
+create_parm("SUBST","Substrate",262144,"StdFormSet",-2,prm("StdForm","\"MSub1\"")));

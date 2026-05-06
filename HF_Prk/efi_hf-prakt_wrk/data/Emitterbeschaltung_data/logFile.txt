@@ -1,0 +1,29 @@
+
+hpeesofsim (*) 640.shp Mar 23 2026, MINT version 5
+    (64-bit windows built: Tue Mar 24, 2026 04:31:30 +0000)
+
+***** Simulation started at Wed May  6 15:32:35 2026
+      Running on host: "LT-Baer02"
+      In Directory: "C:\Users\daniel.baer\Documents\Studium\MSY\mESY4-2\HF_Prk\efi_hf-prakt_wrk\data"
+      Process ID: 42036
+
+
+SP SP1[1] <efi_hf-prakt_lib:Emitterbeschaltung:schematic>   freq=(100 MHz->6 GHz)
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Noise data in the Touchstone file `C:/Users/daniel.baer/Documents/Studium/MSY/mESY4-2/HF_Prk/efi_hf-prakt_wrk/data/2P2V55M0_2009.S2P'
+    does not cover the current value of `freq'. Therefore, if noise
+    simulation is requested the data will be obtained by extrapolation.
+
+
+
+Resource usage:
+    Total CPU time            =     8.59 seconds.
+    Simulation stopwatch time =     4.65 seconds.
+    Total stopwatch time      =    10.59 seconds.
+
+    Memory used:  166 MBytes
+
+    Max threads used:  37
+        (NOTE: max threads includes very-low-CPU-usage support threads,
+         as well as high-CPU-usage computational threads.)
+

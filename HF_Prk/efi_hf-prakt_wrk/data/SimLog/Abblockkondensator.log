@@ -1,0 +1,13 @@
+
+SP SP2[1] <efi_hf-prakt_lib:Abblockkondensator:schematic>   freq=1.575 GHz
+.Warning detected by hpeesofsim during SP analysis 'SP2'.
+    UserValue(6.080000) > MaxRecommendValue(5.000000) for 'Wlargest/Wsmallest' in `Tee1'
+
+
+
+SP SP1[1] <efi_hf-prakt_lib:Abblockkondensator:schematic>   freq=(1 GHz->2 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+  Total stopwatch time     =     0.75 seconds.
+

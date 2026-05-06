@@ -1,0 +1,10 @@
+
+SP SP1[1] <efi_hf-prakt_lib:DC-Beschaltung:schematic>   freq=(100 MHz->6 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+SP SP2[1] <efi_hf-prakt_lib:DC-Beschaltung:schematic>   freq=1.575 GHz
+.
+
+Resource usage:
+  Total stopwatch time     =     0.92 seconds.
+

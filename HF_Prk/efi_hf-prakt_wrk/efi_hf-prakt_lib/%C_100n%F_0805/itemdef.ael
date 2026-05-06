@@ -1,0 +1,7 @@
+create_item("C_100nF_0805","C_100nF_0805","C",16,-1,NULL,"Component Parameters",NULL,"%43?global %;%d:%t %# %44?0%:%31?%C%:_net%c%;%;%e %b%r%8?%29?%:%30?%p %:%k%?[%1i]%;=%p %;%;%;%e%e","C_100nF_0805","%t%b%r%38?%:\n%39?all_parm%A%:%30?%s%:%k%?[%1i]%;=%s%;%;%;%e%e%;","SYM_C",0,"SMD0805-EB",0,
+create_parm("OFFSET","OFFSET",66112,"StdFormSet",5,prm("StdForm","0")),
+create_parm("C","Capacitance",68608,"StdFormSet",4,prm("StdForm","100 nF")),
+create_parm("LS","Series Inductance",68608,"StdFormSet",3,prm("StdForm","1.1433 nH")),
+create_parm("RS","Series Resistance",68608,"StdFormSet",1,prm("StdForm","0.4243 Ohm")),
+create_parm("RP","Parallel Resistance",68608,"StdFormSet",1,prm("StdForm","70451.2 kOhm")),
+create_parm("SUBST","Substrate",262144,"StdFormSet",-2,prm("StdForm","\"MSub1\"")));

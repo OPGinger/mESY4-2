@@ -1,0 +1,10 @@
+
+SP SP2[1] <efi_hf-prakt_lib:Koppelkondensator:schematic>   freq=1.575 GHz
+.
+
+SP SP1[1] <efi_hf-prakt_lib:Koppelkondensator:schematic>   freq=(1 GHz->2 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+  Total stopwatch time     =     0.67 seconds.
+

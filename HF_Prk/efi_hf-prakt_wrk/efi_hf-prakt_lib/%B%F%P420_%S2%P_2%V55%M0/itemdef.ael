@@ -1,0 +1,2 @@
+create_item("BFP420_S2P_2V55M0","BFP420_S2P_2V55M0","T",16,-1,NULL,"Component Parameters",NULL,"%43?global %;%d:%t %# %44?0%:%31?%C%:_net%c%;%;%e %b%r%8?%29?%:%30?%p %:%k%?[%1i]%;=%p %;%;%;%e%e","BFP420_S2P_2V55M0","%t%b%r%38?%:\n%39?all_parm%A%:%30?%s%:%k%?[%1i]%;=%s%;%;%;%e%e%;","BFP420_S2P_2V55M0_Packaged",0,"BFP420_S2P_2V55M0_Packaged",0,
+create_parm("SUBST","Substrate",262144,"StdFormSet",-2,prm("StdForm","\"MSub1\"")));

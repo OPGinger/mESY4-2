@@ -1,0 +1,11 @@
+
+SP SP1[1] <efi_hf-prakt_lib:Emitterbeschaltung:schematic>   freq=(100 MHz->6 GHz)
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Noise data in the Touchstone file `G:/ADS2014/efi_hf-prakt_wrk/data/2P2V55M0_2009.S2P'
+    does not cover the current value of `freq'. Therefore, if noise
+    simulation is requested the data will be obtained by extrapolation.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+  Total stopwatch time     =     8.11 seconds.
+
